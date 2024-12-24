@@ -1,0 +1,3 @@
+﻿  hw 4.cpp
+C:\Users\Denis\source\repos\hw 4\hw 4.cpp(104,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  hw 4.vcxproj -> C:\Users\Denis\source\repos\hw 4\x64\Debug\hw 4.exe
